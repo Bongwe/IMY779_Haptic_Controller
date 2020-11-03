@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - PlatformSphere
+  - GroundObject
+  - DeathTrigger
+  - EnemyPlayer
+  - InteractiveSphere1
+  - MovingPlatform1
+  - InteractiveSphere2
+  - FloatingCubes1
+  - MovingPlatform2
   layers:
   - Default
   - TransparentFX
